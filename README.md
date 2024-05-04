@@ -2,14 +2,13 @@
 
 This repository contains code for running a Graph Convolutional Transformer. Below are the steps to run the code:
 
-
-## Cloud:
-
-### Download the data to your environment
+## Download the data to your environment
 - The eICU data comes from https://physionet.org/content/eicu-crd/2.0/.
 - You are required to participate in the CITI training.
 - Download the patient, admissionDx, diagnosis, treatment CSV files
-- Decompress and upload to the Drive side by the notebook.
+- Decompress and upload to your environment.
+  
+## Cloud:
   
 ### Copy the DL4H_Team_137.ipyhnb in the google colab next to the data download
 - adjust the `raw_data_dir` according to your url shown
