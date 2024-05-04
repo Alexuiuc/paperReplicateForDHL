@@ -10,8 +10,8 @@ This repository contains code for running a Graph Convolutional Transformer. Bel
   
 ## Cloud:
   
-### Copy the DL4H_Team_137.ipyhnb in the google colab next to the data download
-- adjust the `raw_data_dir` according to your url shown
+### Copy the DL4H_Team_137.ipyhnb to the google colab, next to the data uploaded to Drive
+- adjust the `raw_data_dir` in notebook according to your url shown
 
 ## Local:
 
